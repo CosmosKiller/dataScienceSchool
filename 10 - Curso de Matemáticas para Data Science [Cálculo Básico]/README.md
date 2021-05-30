@@ -1,4 +1,4 @@
-cursoDeCalculoBasico
+# cursoDeCalculoBasico
  
 exercices and notes for the Basic Calculus course @Plazti
  
