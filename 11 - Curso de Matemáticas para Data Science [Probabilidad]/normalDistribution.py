@@ -5,7 +5,7 @@ from scipy.stats import norm
 
 def main():
     #In order to import pandas you must install the dependencies via pip.
-    #You may also need to install xlrd to use the read_excel fuction from pandas
+    #You may also need to install xlrd to use the read_excel function from pandas
     df = pd.read_excel('/home/cosmoskiller/Escritorio/Dropbox/Platzi/Escuela de Data Science/11 - Curso de Matemáticas para Data Science [Probabilidad]/s057.xls')
     arr = df['Normally Distributed Housefly Wing Lengths'].values[3:]
     values, dfDist = np.unique(arr, return_counts=True) #Getting the unique values and the count of each unique value
