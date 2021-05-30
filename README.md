@@ -1,4 +1,4 @@
-#Data Science School
+# Data Science School
 
 This repo is made to manage all of the practice exercise i'll make through out the Data Science School @Platzi 
 
