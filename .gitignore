@@ -3,3 +3,5 @@
 *.odt
 *.xls
 *.vscode
+*.xlsx
+*.ipynb_checkpoints
