@@ -2,7 +2,6 @@ Esta es la historia de Nahir Samur
 
 Nahir Samur tiene 28 años y nació en Argentina.
 
-Acá una linea para contarles la historia de como funciona git --amend. Resulta que...
-Algo malo pasó, hice commit sin haber terminado :( Ya nada importa we
+En algun momento nos enfocaremos en su carrera Musical.
 
-En algun momento nos enfocaremos en su carrera nusical.
+Also es un muchacho muy simpatico y le gustan los gaticos :3
