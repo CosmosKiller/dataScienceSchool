@@ -1,0 +1,7 @@
+#!/usr/bin/python3
+
+print('Esto es un test de como crear un comando en la terminal con Python')
+
+nombre = str(input('Hola, como te llamas? '))
+
+print('un gusto saludarte ' + nombre + '!')
