@@ -7,3 +7,5 @@
 *.ipynb_checkpoints
 *.doc
 *.code-workspace
+venv/
+__pycache__/
